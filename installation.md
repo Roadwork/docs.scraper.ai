@@ -1,0 +1,4 @@
+Installation
+
+npm i docsify-cli -g
+docsify serve ./
