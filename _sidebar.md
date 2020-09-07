@@ -3,6 +3,8 @@
 * [⁉ FAQ](/en-us/faq/index.md)
   * [Billing](/en-us/faq/billing.md)
 
+* [(Beta) Extractor](/en-us/extractor/index.md)
+
 * 🌎 Extensions 
   * [Chrome](https://chrome.google.com/webstore/detail/scraperai/acffgfiikphcopeiadpdmlpageboncak)
   * [Edge](https://microsoftedge.microsoft.com/addons/detail/nlggbimgdjhkloofcnbnkicohgdbceja)
