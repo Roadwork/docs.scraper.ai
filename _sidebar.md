@@ -4,6 +4,11 @@
   * [Billing](/en-us/faq/billing.md)
 
 * [(Beta) Extractor](/en-us/extractor/index.md)
+  * [API Key](/en-us/extractor/api_key.md)
+  * Examples
+    * [Nodejs](/en-us/extractor/code/nodejs.md)
+    * [Python](/en-us/extractor/code/python.md)
+    * [C#](/en-us/extractor/code/dotnet.md)
 
 * 🌎 Extensions 
   * [Chrome](https://chrome.google.com/webstore/detail/scraperai/acffgfiikphcopeiadpdmlpageboncak)
