@@ -3,7 +3,7 @@
 * [⁉ FAQ](/en-us/faq/index.md)
   * [Billing](/en-us/faq/billing.md)
 
-* [(Beta) Extractor](/en-us/extractor/index.md)
+* [🕷 HTML Extractor API](/en-us/extractor/index.md)
   * [API Key](/en-us/extractor/api_key.md)
   * Examples
     * [Nodejs](/en-us/extractor/code/nodejs.md)
