@@ -1,14 +1,15 @@
 * [🏠 HOME](/)
 
+* [🕷 HTML Extractor API](/en-us/extractor/index.md)
+  * [API Key](/en-us/extractor/api_key.md)
+
 * [⁉ FAQ](/en-us/faq/index.md)
   * [Billing](/en-us/faq/billing.md)
 
-* [🕷 HTML Extractor API](/en-us/extractor/index.md)
-  * [API Key](/en-us/extractor/api_key.md)
-  * Examples
-    * [Nodejs](/en-us/extractor/code/nodejs.md)
-    * [Python](/en-us/extractor/code/python.md)
-    * [C#](/en-us/extractor/code/dotnet.md)
+* Code Examples
+  * [Nodejs](/en-us/examples/code/nodejs.md)
+  * [Python](/en-us/examples/code/python.md)
+  * [C#](/en-us/examples/code/dotnet.md)
 
 * 🌎 Extensions 
   * [Chrome](https://chrome.google.com/webstore/detail/scraperai/acffgfiikphcopeiadpdmlpageboncak)
